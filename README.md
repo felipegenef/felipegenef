@@ -11,7 +11,7 @@ I'm a `Computer Engineer`, however, I've been working for the past 5 years with 
 #### `#Serverless` `#AWS` `#Node.js` `#Next.js` `#Lambda` `#GoLang` `#Fiber` `#Docker` `Python` `Flask` `#EmbededSystems` `#Arduino` `#ESP32` `#Flutter` `#Dart`
 
 ## My Git Hub Stats ⭐
-[![Top Langs](https://github-stats-private-api-git-main-felipegenef.vercel.app/api/top-langs/?username=felipegenef&layout=compact&theme=github_dark&count_private=true)](https://github.com/felipegenef/github-readme-stats) ![Felipe Gené GitHub stats](https://github-stats-private-api-git-main-felipegenef.vercel.app/api?username=felipegenef&show_icons=true&theme=github_dark&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats-git-master-felipegenefs-projects.vercel.app/api/top-langs/?username=felipegenef&layout=compact&theme=github_dark&count_private=true)](https://github.com/felipegenef/github-readme-stats) ![Felipe Gené GitHub stats](https://github-readme-stats-git-master-felipegenefs-projects.vercel.app/api?username=felipegenef&show_icons=true&theme=github_dark&count_private=true&hide=issues)
 
 ## intl 🌎
 | Fluent Languages | Citizenship |
