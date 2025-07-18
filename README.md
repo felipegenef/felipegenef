@@ -1,4 +1,4 @@
-<img width="100%" height="450px" src="/bg1.jpeg" style="object-position:center 50%">
+<img width="100%" height="450px" src="/bg2.jpg" style="object-position:center 50%">
 
 # Felipe Gené
 
