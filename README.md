@@ -1,4 +1,4 @@
-<img width="100%" height="450px" src="/bg2.jpg" style="object-position:center 50%">
+<img width="100%" height="450px" src="/bg1.jpeg" style="object-position:center 50%">
 
 # Felipe Gené
 
@@ -75,9 +75,9 @@ I'm a `Computer Engineer`, however, I've been working for the past 6 years with 
 ## intl 🌎
 | Fluent Languages | Citizenship |
 | ----------------- | ----------- |
-| Spanish 🇪🇸  | Spanish 🇪🇸 |
-| Portuguese 🇧🇷 | Brazilian 🇧🇷 |
-| English 🇺🇸  |             |
+| Spanish <img alt="Spanish Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"/>  | ✅ |
+| Portuguese <img alt="Brazilian Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"/> | ✅ | 
+| English <img alt="American Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg/500px-Flag_of_the_United_States_%28Web_Colors%29.svg.png"/>  |   ❌          |
 ---
 
 <p align="center">
