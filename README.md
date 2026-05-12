@@ -44,7 +44,7 @@ Hi 👋, I'm Felipe! I'm a `serverless` specialist and a `JavaScript`, `Go` and 
 
 I love helping serverless Open Source projects and helping companies lift and shift to `AWS` Serverless as well as making POCs for groundbreaking ideas for serverless development🔥🚀!
 
-I'm a `Computer Engineer`, however, I've been working for the past 6 years with web development and serverless computing as a `DEV`, `TechLead` and `Serverless Consultant`.
+I'm a `Computer Engineer`, however, I've been working for the past 7 years with web development and serverless computing as a `DEV`, `TechLead` and `Serverless Consultant`.
 
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
