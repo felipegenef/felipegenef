@@ -77,7 +77,7 @@ I'm a `Computer Engineer`, however, I've been working for the past 6 years with 
 | ----------------- | ----------- |
 | Spanish <img alt="Spanish Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"/>  | ✅ |
 | Portuguese <img alt="Brazilian Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"/> | ✅ | 
-| English <img alt="American Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg/500px-Flag_of_the_United_States_%28Web_Colors%29.svg.png"/>  |   ❌          |
+| English <img alt="American Flag" width="20px" height="20px" src="/america.jpg"/>  |   ❌          |
 ---
 
 <p align="center">
