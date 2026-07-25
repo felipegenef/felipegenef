@@ -75,7 +75,7 @@ I'm a `Computer Engineer`, however, I've been working for the past 7 years with 
 ## intl 🌎
 | Fluent Languages | Citizenship |
 | ----------------- | ----------- |
-| Spanish <img alt="Spanish Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"/>  | ✅ |
+| Spanish <img alt="Spanish Flag" width="20px" height="20px" src="/spain.jpg"/>  | ✅ |
 | Portuguese <img alt="Brazilian Flag" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"/> | ✅ | 
 | English <img alt="American Flag" width="20px" height="20px" src="/america.jpg"/>  |   ❌          |
 ---
